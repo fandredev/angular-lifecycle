@@ -1,4 +1,4 @@
-import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
+import {Component, Input, OnChanges, SimpleChanges} from '@angular/core';
 import {ListaDeCompraService} from "../../service/lista-de-compra.service";
 import {Item} from "../../interfaces/iItem";
 
@@ -7,16 +7,13 @@ import {Item} from "../../interfaces/iItem";
   templateUrl: './input.component.html',
   styleUrls: ['./input.component.css']
 })
-export class InputComponent implements OnInit, OnChanges {
+export class InputComponent implements OnChanges {
   @Input() itemToEdit!: Item;
   itemValue!: string;
   editing = false
   textBtn = 'Salvar item'
 
   constructor(private purchaseListService: ListaDeCompraService) {
-  }
-
-  ngOnInit(): void {
   }
 
   ngOnChanges(changes: SimpleChanges) {

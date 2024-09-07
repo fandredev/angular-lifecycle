@@ -1,28 +1,54 @@
-# LifeCycle
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
-## Development server
+# Basic CRUD Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Basic application to learn angular functionalies
 
-## Code scaffolding
+# Stack used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img src="https://skillicons.dev/icons?i=angular,git,npm&theme=dark" alt="angular,git,npm" />
 
-## Build
+## Authors
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Me](https://www.linkedin.com/in/devfandre/)
 
-## Running unit tests
+## Funcionalities
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Create item
+- Edit item
+- Delete item 
+- Check item
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Clone this project
 
-## Further help
+```bash
+  git clone git@github.com:flubyGit/angular-lifecycle.git
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# angular-lifecycle
+## Enter project
+```bash
+  cd angular-lifecycle
+```
+
+## Install dependencies
+
+```bash
+  npm install
+```
+
+## Run server
+
+```bash
+  npm run start
+```
+
+## :mailbox_with_no_mail: Contacts
+
+E-mail: profissionalf.andre@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/devfandre/<br>
+
+
+# Images:
+
+![image](https://github.com/flubyGit/angular-lifecycle/assets/49297012/72cf2452-6847-4dce-9564-438e510ab7b5)
