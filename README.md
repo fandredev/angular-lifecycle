@@ -1,57 +1,54 @@
 
 
-# SDK Golang API Zapsign
+# Basic CRUD Angular
 
-Aplicação básica de lista de compras para 'brincar' com os lifecycle do Angular.
+Basic application to learn angular functionalies
 
-## Autores
+# Stack used
 
-- [@flubyGit](https://www.github.com/flubyGit)
+<img src="https://skillicons.dev/icons?i=angular,git,npm&theme=dark" alt="angular,git,npm" />
+
+## Authors
+
+- [Me](https://www.linkedin.com/in/devfandre/)
+
+## Funcionalities
+
+- Create item
+- Edit item
+- Delete item 
+- Check item
 
 
-
-## Funcionalidades
-
-- Criar item para lista de compra
-- Editar item para lista de compra
-- Excluir item para lista de compra
-- Checar item para lista de compra
-
-
-## Rodando localmente
-
-Clone o projeto
+## Clone this project
 
 ```bash
   git clone git@github.com:flubyGit/angular-lifecycle.git
 ```
 
-Entre no diretório do projeto
-
+## Enter project
 ```bash
   cd angular-lifecycle
 ```
 
-Instale as dependências
+## Install dependencies
 
 ```bash
   npm install
 ```
 
-Rode o projeto
+## Run server
 
 ```bash
-  ng s -o
+  npm run start
 ```
 
+## :mailbox_with_no_mail: Contacts
 
-## Feedback
-
-Se você tiver algum feedback, por favor nos deixe saber por meio de:
-- felipe@zapsign.com.br 
-
+E-mail: profissionalf.andre@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/devfandre/<br>
 
 
-# Imagens:
+# Images:
 
 ![image](https://github.com/flubyGit/angular-lifecycle/assets/49297012/72cf2452-6847-4dce-9564-438e510ab7b5)
